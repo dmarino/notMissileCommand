@@ -1,5 +1,5 @@
 # notMissileCommand
-this is a missile command knock off
+this is a missile command knock off developed in C++ using Visual Studio 2019
 
 
 when you download it it won't show the text of the menus unless you change the working directory path of the game to the folder name Build like this:
